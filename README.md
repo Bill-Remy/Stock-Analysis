@@ -6,7 +6,7 @@ The purpose of ths project was to change the approach for analyzing stocks to de
 
 # Project Results
 
-##Run Time Imrpovment Results
+## Run Time Imrpovment Results
 
 The performace of the refactored code was 14-15% better than the base code.  Comparative times for the base code and refactored code are shown below.
 Rune time for the 2017 Analysis was 0.996 seconds shown below.
