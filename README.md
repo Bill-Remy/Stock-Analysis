@@ -25,7 +25,13 @@ The difference of 0.144 seconds was 14.5% faster.  The results for 2018 were nea
 |2018 Base Run     | 1.007 secs |
 |2018 Refactored   | 0.848 secs |
 
+## Code Development Comparison
 
+The base code used the approach of cycling through each ticker symbol in the array of stocks and then the entire file to calculate volume and return. This approach required the script to process the entire file twelve times, one for each ticker symbol printing the results at the end of each ticker symbol.
+
+
+
+The refactored code changed two main aspects to the approach.  First, arrays were defined to store the results of volume, starting and ending prices for each ticker symbol.  Second the nesting of analysis was reversed to only read the file one row at a time and calculate values for each ticker.  Results for the arrays are printed to the output area only at the end of reading the file.
 
 
 
