@@ -4,6 +4,6 @@
 
 # Project Results
 
-![2017 Performance](/resources/
+![2017 Performance](Resources/Refactored run time 2017.png)
 
 # Summary and Conclusions
