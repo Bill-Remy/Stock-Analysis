@@ -9,4 +9,4 @@ The purpose of ths project was to change the approach for analyzing stocks to de
 
 
 # Summary and Conclusions
-<img src="https://user-images.githubusercontent.com/101779456/160297632-f090fb65-2ca2-49d2-9bd2-ab62b5755151.png" alt="user-images.githubusercontent.com/101779456/160297632-f090fb65-2ca2-49d2-9bd2-ab62b5755151.png" width=500/>
+<img src="https://user-images.githubusercontent.com/101779456/160297632-f090fb65-2ca2-49d2-9bd2-ab62b5755151.png" alt="user-images.githubusercontent.com/101779456/160297632-f090fb65-2ca2-49d2-9bd2-ab62b5755151.png" width=300/>
