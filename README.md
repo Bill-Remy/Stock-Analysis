@@ -11,5 +11,6 @@ The performace of the refactored code was 14-15% better than the base code.  Com
 <img src="Resources/Refactored run time 2017.png" alt="Resources/Refactored run time 2017.png" width="200" align="left">
 
 
+
 # Summary and Conclusions
 
