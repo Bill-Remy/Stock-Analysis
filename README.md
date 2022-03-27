@@ -33,7 +33,7 @@ The base code used the approach of cycling through each ticker symbol in the arr
 
 The refactored code changed two main aspects to the approach.  First, arrays were defined to store the results of volume, starting and ending prices for each ticker symbol.  Second the nesting of analysis was reversed to only read the file one row at a time and calculate values for each ticker.  Results for the arrays are printed to the output area only at the end of reading the file.
 
-
+<img src="Resources/Refactored code.png" alt="Resources/Refactored code.png" width="250" height="400">
 
 
 # Summary and Conclusions
