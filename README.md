@@ -1,4 +1,4 @@
-** Stock Analysis - Refactoring Code to Improve Performance**
+**Stock Analysis - Refactoring Code to Improve Performance**
 
 # Project Overview and Purpose
 
