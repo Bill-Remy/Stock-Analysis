@@ -6,7 +6,9 @@ The purpose of ths project was to change the approach for analyzing stocks to de
 
 # Project Results
 
+The performace of the refactored code was 14-15% better than the base code.  Comparative times for the base code and refactored code are shown below.
+<img src="Resources/Refactored run time 2017.png" alt="Resources/Refactored run time 2017.png" width="200"/>
 
 
 # Summary and Conclusions
-<img src="https://user-images.githubusercontent.com/101779456/160297632-f090fb65-2ca2-49d2-9bd2-ab62b5755151.png" alt="user-images.githubusercontent.com/101779456/160297632-f090fb65-2ca2-49d2-9bd2-ab62b5755151.png" width=300/>
+
