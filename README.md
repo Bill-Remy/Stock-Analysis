@@ -11,5 +11,4 @@ The purpose of ths project was to change the approach for analyzing stocks to de
 
 
 # Summary and Conclusions
-![Refactored run time 2017](https://user-images.githubusercontent.com/101779456/160297496-9c7855c7-bcdd-4da0-99c7-ff2a7532abca.png) 
 ![Refactored run time 2017 crop](https://user-images.githubusercontent.com/101779456/160297632-f090fb65-2ca2-49d2-9bd2-ab62b5755151.png)
