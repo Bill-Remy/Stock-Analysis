@@ -1,2 +1,7 @@
-# Stock-Analysis
-Module 2 VBA Stock Analysis
+* Stock Analysis - Refactoring Code to Improve Performance
+
+# Project Overview and Purpose
+
+# Project Results
+
+# Summary and Conclusions
